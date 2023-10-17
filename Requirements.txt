@@ -1,0 +1,25 @@
+pip install pip -U
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+pip install flask
+conda install opencv
+python -m pip install paddlepaddle==2.2.1 -i https://mirror.baidu.com/pypi/simple
+pip install pyyaml
+pip install tqdm
+pip install scipy
+pip install chardet
+pip install colorama
+pip install matplotlib
+
+应用程序6e433121-2284-4116-b8f5-ec32f718cf4d
+密码值1cf7Q~dk7yRpRjN8U~a7roMXTOvmumtAD-Fh-
+python 3.7 is ok
+numpy~=1.21.5
+six~=1.16.0
+pyyaml~=6.0
+tqdm~=4.62.3
+scipy~=1.7.3
+chardet~=4.0.0
+pillow~=9.0.1
+colorama~=0.4.4
+requests~=2.27.1
+flask~=2.0.3

@@ -1,0 +1,11 @@
+<svg id="组件_2_1" data-name="组件 2 – 1" xmlns="http://www.w3.org/2000/svg" width="98" height="47" viewBox="0 0 98 47">
+  <g id="组件_1_1" data-name="组件 1 – 1">
+    <g id="Button_Large_Primary" data-name="Button/Large/Primary">
+      <rect id="Primary" width="98" height="47" rx="4" fill="#007bff"/>
+      <g id="组_3" data-name="组 3" transform="translate(20 12)">
+        <text id="Button" transform="translate(0 18)" fill="#fff" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Button</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
+
