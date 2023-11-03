@@ -1,0 +1,43 @@
+{
+  "name": "Sketch2Wireframe",
+  "host": {
+    "app": "XD",
+    "minVersion": "21.0"
+  },
+  "id": "1b3c5761",
+  "icons": [
+    {
+      "path": "images/icon@1x.png",
+      "width": 24,
+      "height": 24
+    },
+    {
+      "path": "images/icon@2x.png",
+      "width": 48,
+      "height": 48
+    }
+  ],
+  "uiEntryPoints": [
+    {
+      "type": "menu",
+      "label": "upload",
+      "commandId": "upload"
+    },
+    {
+      "type": "menu",
+      "label": "Draft",
+      "commandId": "draftCommand"
+    },
+    {
+      "type": "menu",
+      "label": "Heuristics",
+      "commandId": "heuristicsCommand"
+    },
+    {
+      "type": "menu",
+      "label": "IP Optimizer",
+      "commandId": "ipOptimizerCommand"
+    }
+  ],
+  "version": "0.0.1"
+}
